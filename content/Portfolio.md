@@ -9,7 +9,6 @@ tags:
 # WORK EXPERIENCE
 
 ## Goliath Robotics - Accra. (December 2021 - Present)
-
 ### Mechanical Design Engineer
 
 - Modeled and prototyped electric bicycle frames for optimum stability and weight distribution
@@ -17,7 +16,6 @@ tags:
 - Developed and formatted GitHub codebase with recommended coding conventions to improve readability and editing of codebase.
 
 ## AccraWAN - Remote. (August 2021 - October 2021)
-
 ### Operations Intern
 
 - Created scripts in C to parse NMEA signals to improve readability of GPS signals
@@ -25,7 +23,6 @@ tags:
 - Developed a communication system for a network of devices using MQTT technology
 
 ## Kanda Weather - Accra. (February 2021 - May 2022)
-
 ### Launch Team Member
 
 - Worked in a team to launch radiosondes weekly to collect weather data using balloons to provide accurate short-term weather predictions
@@ -48,7 +45,6 @@ tags:
 - Personal and Interpersonal Skills: Agile mindset, self-motivated, High level of initiative, Collaborative, Customer centric, Collaborative problem solving
 
 # CAMPUS INVOLVEMENT
-
 ## Robotics Club, Vice President, Academic City University College. (January 2022 - Present)
 
 - Designed personalized training for junior members on the basics of robotics and supervised practical projects
@@ -56,22 +52,19 @@ tags:
 - Engaged with High School to aid in the development of a suitable curriculum to introduce robotics to children starting from Grade 4
 
 # VOLUNTEER WORK
-## Academic City University College - Accra. (August 2021, May 2022)
+## cademic City University College - Accra. (August 2021, May 2022)
 
 - Adopted a practical experience for tutoring over 100 high school students programming concepts and basics of C and python programming
 - Spearheaded practical projects on developing a number-guessing game and a user information collection system
 ## First Lego League - Ghana. (May 2021)
-
 ### Robotics Referee
 
 # AWARDS & HONOURS
-
 - Academic City University College, Academic Excellence Award (December 2021)
 - Academic City University College, Best Mechanical, Industrial and Systems Engineering Student (December 2021)
 - Academic City University College, Dean's List Honors (December 2021)
 
 # SOME PROJECTS
-
 ## Sustain City Project, Design Engineer (June 2021 - Present)
 
 - Supported colleagues in planning and launching a campaign and collected over 300kg bottles for recycling to promote sustainability
@@ -94,7 +87,6 @@ tags:
 - Programmed in Processing a visual dashboard that displays detected motion and live position of burglar
 
 # EXTRACURRICULAR ACTIVITIES
-
 ## Bright Network Internship Experience UK, Engineering & Infrastructure and Technology Internship Experience (July 2021)
 
 - Designed and programmed an interactive video player application with Python and GitHub given by Google for the implementation of Test-Driven Development to a codebase.
