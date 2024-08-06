@@ -1,0 +1,1 @@
+- Star the boards that you use often in the mcu selector

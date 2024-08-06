@@ -52,7 +52,7 @@ tags:
 - Engaged with High School to aid in the development of a suitable curriculum to introduce robotics to children starting from Grade 4
 
 # VOLUNTEER WORK
-## cademic City University College - Accra. (August 2021, May 2022)
+## Academic City University College - Accra. (August 2021, May 2022)
 
 - Adopted a practical experience for tutoring over 100 high school students programming concepts and basics of C and python programming
 - Spearheaded practical projects on developing a number-guessing game and a user information collection system

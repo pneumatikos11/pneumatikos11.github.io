@@ -31,3 +31,8 @@ Want to see what Quartz can do? Here are some cool community gardens:
 - [Gatekeeper Wiki](https://www.gatekeeper.wiki)
 
 If you want to see your own on here, submit a [Pull Request adding yourself to this file](https://github.com/jackyzha0/quartz/blob/v4/docs/showcase.md)!
+
+Personal Additions
+- [Other Public Second Brains (ssp.sh)](https://www.ssp.sh/brain/other-public-second-brains/)
+- [Work with the garage door up (andymatuschak.org)](https://notes.andymatuschak.org/zCMhncA1iSE74MKKYQS5PBZ)
+- [Other Public Second Brains (ssp.sh)](https://www.ssp.sh/brain/other-public-second-brains/)

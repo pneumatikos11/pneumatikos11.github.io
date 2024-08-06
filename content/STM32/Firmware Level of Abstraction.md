@@ -1,0 +1,1 @@
+HAL is hardware abstraction layer and is a developed layer of firmware such that for a particular platform (say STM32) it is independent of the hardware and can be used across multiple hardware without porting. 

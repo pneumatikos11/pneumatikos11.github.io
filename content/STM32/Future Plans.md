@@ -1,0 +1,2 @@
+- [ ] Get your own ST Link V2 (Either buy an STM32 Board and patch it or get a cheap one form ali express)
+- [ ] 
