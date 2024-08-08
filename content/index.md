@@ -42,3 +42,10 @@ Hi there! My name is Kwabena, some of you may know me as Kobby. I am a mechanica
 <div class="description">STM32 tutorials and projects</div>
 </a>
 </div>
+
+>[!info] Optimal Experience Check
+>If you do not see any elements on the left or right of this page, you may have to zoom out to see them.
+
+
+
+

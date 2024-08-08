@@ -16,7 +16,10 @@
 5. Connect to the new ST-Link using the STM32CubeProgrammer. Click on Firmware Update there. Keep unplugging and click refresh and update and it should pick it up. 
 6. Now all we need to do is test it. I am testing it according to diagram below with another Blue Pill (**don’t miss that short connection between PB12 and PB14!!!**):![](http://slemi.info/wp-content/uploads/2018/08/ST-LINK-Testing.png)
 
+# Tracing
+- This has the added benefit of tracing directly without hurdles unlike the ST-Link v2 clones. With a little bit of [research](https://lujji.github.io/blog/stlink-clone-trace/), you can see that the trace pin for the programmer is on PA10. Simply connect a jumper wire from the trace pin of the target (PB3 in the case of the bluepill) to PA10 on the new ST-Link and you should be able to trace. 
+
 # References 
 - [st-link-v2-clone/README.md at main · Zelmoghazy/st-link-v2-clone (github.com)](https://github.com/Zelmoghazy/st-link-v2-clone/blob/main/README.md)
 - [Making your own ST-LINK V2 from STM32 Blue-Pill or STM32 Black-Pill | STM32 Programming | Slemi's webpage](http://slemi.info/2018/08/14/making-your-own-st-link-v2/)
-- 
+- [Adding Trace support to ST-Link clones | lujji](https://lujji.github.io/blog/stlink-clone-trace/)
