@@ -5,7 +5,9 @@ tags:
 ---
 
 
-
+# Resume and Transcript
+- You can download my resume [here](https://drive.google.com/file/d/13T3HbkixYHC0TEA8MLwoB8cS9zulppC2/view?usp=drive_link). 
+- If you are a recruiter, you could reach out to me for my transcript. 
 # WORK EXPERIENCE
 
 ## Goliath Robotics - Accra. (December 2021 - Present)
